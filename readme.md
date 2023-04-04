@@ -2,7 +2,7 @@
 
 ### *Trabajo Práctico - Programación I*
 
-#### 0) CONSIGNAS EN PDF: "TP_GrillaF1" con consignas
+#### 0) CONSIGNAS EN PDF: "TP_GrillaF1" 
 
 #### 1) EJECUTAR EN TERMINAL:
 
